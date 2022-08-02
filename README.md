@@ -43,9 +43,8 @@ Our approach:
 Keras image data generator only works with jpg, png, and tif images. 
 It will not recognize npy files. We need to define a custom generator to load our data from the disk. 
 
-### Step 3: Define the 3D U-net model
-Extend the standard 2D U-Net into 3D OR use 3D segmentation models library 
+### Step 3: Define the 3D U-net model 
 
 ### Step 4: Train and Predict
-- Train by loading images in batches using our custom generator. 
+- Train by loading images in batches using the custom generator. 
 - Predict and plot data for visualization.
