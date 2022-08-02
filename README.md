@@ -1,8 +1,9 @@
 # Brain Tumor Segmentation : BRATS Challenge 2020 
-#### Dataset from : 
-https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation
 
 ![brats-tumor-subregions](https://user-images.githubusercontent.com/93741954/182492225-3c08fb47-435c-4898-838b-338b1e8c648b.jpg)
+
+#### Dataset from : 
+https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation
 
 Dataset information:
 Multimodal scans available as NIfTI files (.nii.gz) 
