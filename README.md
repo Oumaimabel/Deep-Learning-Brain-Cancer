@@ -2,6 +2,12 @@
 
 ![brats-tumor-subregions](https://user-images.githubusercontent.com/93741954/182492225-3c08fb47-435c-4898-838b-338b1e8c648b.jpg)
 
+### Introduction
+
+Brain tumors include the most threatening types of tumors around the world. Glioma, the most common primary brain tumors, occurs due to the carcinogenesis of glial cells in the spinal cord and brain. Glioma is characterized by several histological and malignancy grades, and an average survival time of fewer than 14 months after diagnosis for glioblastoma patients. Magnetic Resonance Imaging (MRI), a popular non-invasive strategy, produces a large and diverse number of tissue contrasts in each imaging modality and has been widely used by medical specialists to diagnose brain tumors. However, the manual segmentation and analysis of structural MRI images of brain tumors is an arduous and time-consuming task which, thus far, can only be accomplished by professional neuroradiologists. Therefore, an automatic and robust brain tumor segmentation will have a significant impact on brain tumor diagnosis and treatment.
+
+### About Dataset
+
 #### Dataset from : 
 https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation
 
